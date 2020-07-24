@@ -1,2 +1,8 @@
 # backup files
 *.bck
+
+# folder for external libs
+_EXTERNAL/*
+!_EXTERNAL/README
+!_EXTERNAL/README.md
+
