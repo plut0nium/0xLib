@@ -2,9 +2,12 @@
 
 Kicad libraries used in my personnal projects.
 
+> DISCLAIMER :
+> These libraries are povided as-is, they may contain errors (I hope not too much) and/or inaccuracies (probably).
+
 ## Licence
 
-CC-BY-SA
+**CC-BY-SA 4.0** unless otherwise stated
 
 ## Sources
 
