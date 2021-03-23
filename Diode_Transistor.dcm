@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAV70
+D Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23
+K diode
+F https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf
+$ENDCMP
+#
+$CMP PESD5V0L2BT
+D SOT23, Low Capacitance, Double Bidirectional ESD Protection Diodes, 5.0V Reverse Standoff Voltage
+K ESD SOT23 5V 5V0
+$ENDCMP
+#
+#End Doc Library
