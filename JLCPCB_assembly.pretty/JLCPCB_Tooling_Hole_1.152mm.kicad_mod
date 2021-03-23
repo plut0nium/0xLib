@@ -1,0 +1,11 @@
+(module JLCPCB_Tooling_Hole_1.152mm (layer F.Cu) (tedit 5F7970D6)
+  (descr "Tooling Hole diam. 1.152mm")
+  (tags JLCPCB)
+  (fp_text reference REF** (at 0 -1.25) (layer F.SilkS) hide
+    (effects (font (size 0.8 0.8) (thickness 0.2)))
+  )
+  (fp_text value JLCPCB_Tooling_Hole_1.152mm (at 0 1.25) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 1.152 1.152) (drill 1.152) (layers *.Cu *.Mask))
+)
