@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MK_Board
+D Generic symbol for a MK board with shield
+$ENDCMP
+#
+$CMP Stabilizer
+D Keycap stabilizer only - No switch
+$ENDCMP
+#
+#End Doc Library
