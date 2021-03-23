@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SW_Push_4pin
+D Push button switch, generic, symbol, four pins
+K switch normally-open pushbutton push-button
+F ~
+$ENDCMP
+#
+#End Doc Library
