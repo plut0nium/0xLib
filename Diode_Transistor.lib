@@ -40,6 +40,22 @@ X A 2 100 0 50 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# Diode_Dual_Common_Cathode
+#
+DEF Diode_Dual_Common_Cathode D 0 40 N N 2 F N
+F0 "D" 0 100 50 H V C CNN
+F1 "Diode_Dual_Common_Cathode" 0 -90 50 H I C CNN
+F2 "0xLib_Diode_Transistor:SOT-23" 0 -160 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -50 50 -50 -50 N
+P 4 0 1 0 -50 0 50 50 50 -50 -50 0 N
+X K 3 -100 0 50 R 50 50 0 1 P
+X A1 1 100 0 50 L 50 50 1 1 P
+X A2 2 100 0 50 L 50 50 2 1 P
+ENDDRAW
+ENDDEF
+#
 # PESD5V0L2BT
 #
 DEF PESD5V0L2BT D 0 40 Y Y 1 F N
