@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RCD-24
+D Recom Lightline Constant Current LED Driver - Vref version
+K LED, driver, dc-dc
+$ENDCMP
+#
+#End Doc Library
