@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP AudioJack4_SwitchTR1
-D Audio Jack, 4 Poles (Stereo / TRRS), Switched TR1 Poles (Normalling)
-K audio jack receptacle stereo headphones phones TRS connector
-F ~
-$ENDCMP
-#
-#End Doc Library
