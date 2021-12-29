@@ -30,7 +30,7 @@
   (pad 4 thru_hole circle (at 7.5 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 10 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 12.5 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_JST.3dshapes/JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

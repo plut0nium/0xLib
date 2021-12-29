@@ -18,7 +18,7 @@
   (pad "" np_thru_hole circle (at 27.6 -8) (size 3.55 3.55) (drill 3.55) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -27.6 8) (size 3.55 3.55) (drill 3.55) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 35.88 8) (size 2.39 2.39) (drill 2.39) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/battery-holders.3dshapes/KEYSTONE_1043.step
+  (model ${KICAD6_3DMODEL_DIR}/battery-holders.3dshapes/KEYSTONE_1043.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
