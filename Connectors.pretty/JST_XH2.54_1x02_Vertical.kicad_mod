@@ -49,7 +49,7 @@
   (fp_line (start 5.05 -0.2) (end 4.3 -0.2) (layer F.SilkS) (width 0.2032))
   (pad 1 thru_hole roundrect (at 0 0) (size 1.778 2.032) (drill 1.016) (layers *.Cu *.Mask) (roundrect_rratio 0.15))
   (pad 2 thru_hole circle (at 2.54 0) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask))
-  (model ${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.wrl
+  (model ${KICAD7_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

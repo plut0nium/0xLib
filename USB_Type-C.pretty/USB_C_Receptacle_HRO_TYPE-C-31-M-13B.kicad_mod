@@ -55,7 +55,7 @@
   (pad "S1" thru_hole oval (at 5.62 -2.1) (size 1 2) (drill oval 0.6 1.6) (layers *.Cu *.Mask) (tstamp 53e0f165-d254-495c-9662-dc35ac919304))
   (pad "S1" thru_hole oval (at 5.62 -6.1) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask) (tstamp 9553c6c8-2f08-4ec2-866d-9bf6f73b421d))
   (pad "S1" thru_hole oval (at -5.62 -2.1) (size 1 2) (drill oval 0.6 1.6) (layers *.Cu *.Mask) (tstamp d681d8bf-5312-43f2-9d28-55d47254dd88))
-  (model "${KICAD6_USER_LIB}/3D_models/TYPE-C-31-M-14.step"
+  (model "${KICAD7_USER_LIB}/3D_models/TYPE-C-31-M-14.step"
     (offset (xyz 0 -0.6 0.45))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

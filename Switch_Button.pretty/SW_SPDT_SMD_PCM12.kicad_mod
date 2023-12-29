@@ -41,7 +41,7 @@
   (pad "" smd roundrect (at 3.75 1.43) (size 1.2 0.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.15))
   (pad "" smd roundrect (at 3.75 -0.78) (size 1.2 0.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.15))
   (pad "" smd roundrect (at -3.75 -0.78) (size 1.2 0.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.15))
-  (model ${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPDT_PCM12.wrl
+  (model ${KICAD7_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPDT_PCM12.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
